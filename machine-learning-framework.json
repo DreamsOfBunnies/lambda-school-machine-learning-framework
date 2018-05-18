@@ -1,5 +1,6 @@
 {
-    "url": "my-netlify-subdomain.netlify.com/machine-learning-framework.json",
-    "objectives": ["objective-1", "objective-2", "objective-3", "objective-4", "objective-5"]
-    "keywords": ["keyword-1", "keyword-2", "keyword-3", "keyword-4", "keyword-5"]
+    "url": "https://ml-framework-matthew-tomas.netlify.com/",
+    "objectives": ["explain logistic regression", "explain naive bayes", "explain k-nearest-neighbors", 
+                   "explain support vector machines", "explain random forest"]
+    "keywords": ["machine learning", "algorithms", "logistic regression", "naive bayes", "k-nearest-neighbors"]
 }
